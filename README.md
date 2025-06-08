@@ -11,7 +11,7 @@ This project uses real-world HIV data from UNAIDS to predict AIDS-related deaths
 ## 📈 Model Summary
 - **Model:** Random Forest Regressor
 - **R² Score:** 0.998
-- **RMSE:** ~3,200
+- **RMSE:** ~563.46
 - **Top Features:** Region, Year, ART Coverage
 
 ## 📊 Tableau Dashboard Features
